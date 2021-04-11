@@ -1,2 +1,3 @@
 node_modules/
-src/Login/firebase.config.js
+src/Login/firebase.config.js/
+
